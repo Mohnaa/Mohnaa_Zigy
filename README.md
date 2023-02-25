@@ -1,3 +1,3 @@
-A install this app from here:
+Install this app from here:
 
-- [Click To Download](https://github.com/shibam-naskar/MOHNAA/raw/main/app-release.apk)
+- [Click To Download](https://github.com/Mohnaa/Mohnaa_Zigy/raw/Repositories/app-release.apk)
